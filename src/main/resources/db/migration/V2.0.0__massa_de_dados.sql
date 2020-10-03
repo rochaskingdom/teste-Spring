@@ -1,0 +1,2 @@
+INSERT INTO ANIMAL (CODIGO, NOME, DESCRICAO) VALUES (1, 'Tubarao', 'Vive na agua?');
+INSERT INTO ANIMAL (CODIGO, NOME, DESCRICAO) VALUES (2, 'Cachorro', 'Vive na terra?');
